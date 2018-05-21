@@ -1,0 +1,1 @@
+# cb-react-static-comp
